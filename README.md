@@ -10,7 +10,8 @@ The challenge solutions execute simplified tags, commands and arrangement to mos
 
 The objective is to learn to identify the appropriate arrangements to give a Website a clearer and concise Styling.
 
-![image](https://user-images.githubusercontent.com/109518513/183649946-d36ea6f7-a712-494e-b47e-8957274d713a.png)
+
+![_C__Users_Ricardo%20Bongato_Bootcamp_Assignment-1_Develop_index html](https://user-images.githubusercontent.com/109518513/183652990-1a7d262f-7a2d-4f88-8cf0-8b271f381e50.png)
 
 Link to Deployed Application: 
 https://github.com/RicciJr/Assignment-1/blob/main/Develop/index.html
